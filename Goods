@@ -8,7 +8,6 @@ public class Goods {
 		private int countStock;
 		private int countSold;
 		
-		//private를 사용해서 set/get을 가져오는 건가?
 		public void setName(String n) {
 			name=n;
 		}
